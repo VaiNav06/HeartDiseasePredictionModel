@@ -11,7 +11,8 @@ A simple neural network using PyTorch to predict heart disease based on patient 
 	- Uses a 4-layer neural network with batch normalization and dropout
 	- Optimized training with SGD, learning rate scheduling, and early stopping
 
-Installation
+## Installation
+
 1.	Clone the repository:
 
         git clone https://github.com/your-username/heart-disease-prediction.git
