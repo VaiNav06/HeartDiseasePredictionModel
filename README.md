@@ -29,14 +29,14 @@ Installation
 
 
 
-Usage
+## Usage
 	- The script downloads the dataset automatically.
 	- The model trains on 80% of the data and tests on 20%.
 	-	Training progress and loss values are printed.
 	-	At the end, test accuracy (85.25%) is displayed.
 	-	A loss graph is plotted.
 
-Model Overview
+## Model Overview
 	-	Input: 8 selected features
 	-	Hidden layers:
 	-	256 neurons → ReLU → Dropout
