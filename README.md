@@ -2,7 +2,7 @@
 
 Heart Disease Prediction
 
-A simple neural network using PyTorch to predict heart disease based on patient data. The model is trained on the UCI Heart Disease Dataset and achieves 85.25% accuracy.
+A simple neural network using PyTorch to predict heart disease based on patient data. The model is trained on the UCI Heart Disease Dataset and achieves 90% accuracy.
 
 ## Features
 
