@@ -15,8 +15,8 @@ A simple neural network using PyTorch to predict heart disease based on patient 
 
 1.	Clone the repository:
 
-        git clone https://github.com/your-username/heart-disease-prediction.git
-        cd heart-disease-prediction
+        git clone https://github.com/VaiNav06/HeartDiseasePredictionModel
+        cd HeartDiseasePredictionModel
 
 
 2.	Install dependencies:
@@ -26,7 +26,7 @@ A simple neural network using PyTorch to predict heart disease based on patient 
 
 3.	Run the script:
 
-         python heart_disease_nn.py
+         python prediction_model.py
 
 
 
@@ -34,7 +34,7 @@ A simple neural network using PyTorch to predict heart disease based on patient 
 	- The script downloads the dataset automatically.
 	- The model trains on 80% of the data and tests on 20%.
 	- Training progress and loss values are printed.
-	- At the end, test accuracy (85.25%) is displayed.
+	- At the end, test accuracy is displayed.
 	- A loss graph is plotted.
 
 ## Model Overview
